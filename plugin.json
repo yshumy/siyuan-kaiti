@@ -1,0 +1,45 @@
+{
+  "name": "siyuan-ttf-LXGWWenKaiGB-and-Twemoji",
+  "author": "TCOTC",
+  "url": "https://github.com/TCOTC/siyuan-ttf-LXGWWenKaiGB-and-Twemoji",
+  "version": "1.0.0",
+  "minAppVersion": "3.1.15",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "default": "LXGW WenKai and Twemoji",
+    "zh_CN": "霞鹜文楷和 Twemoji"
+  },
+  "description": {
+    "default": "LXGW WenKai & Twemoji"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+      "https://bento.me/jeffff"
+    ]
+  },
+  "keywords": [
+    "font",
+    "字体",
+    "霞鹜文楷",
+    "LXGW WenKai GB",
+    "中文",
+    "Chinese",
+    "Twitter Emoji",
+    "siyuan-ttf-LXGWWenKaiGB-and-Twemoji",
+    "emoji",
+    "表情包",
+    "表情",
+    "符号",
+    "图标",
+    "icon"
+  ]
+}
